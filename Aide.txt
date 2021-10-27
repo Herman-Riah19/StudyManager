@@ -1,0 +1,11 @@
+Projet: Gestion Etudiant
+Titre: Study Manager
+
+Développer dans: Sharp Develop 5.1
+Par: RAZAFINDRANAIVO Herman Christian
+Filière: TéléCommunication
+Université: GSI Soarano
+
+Contenu: 
+** la solution Hermann
+** le base de donnee: gestion_etudiant.sql ( developper sur MySql)
